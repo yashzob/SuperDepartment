@@ -1,0 +1,5 @@
+com\greatlearning\service\department\AdminDepartment.class
+com\greatlearning\service\department\Department.class
+com\greatlearning\service\department\HrDepartment.class
+com\greatlearning\service\department\DepertmentSuper.class
+com\greatlearning\service\department\TechDepartment.class
